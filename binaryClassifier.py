@@ -13,7 +13,7 @@ train_data_dir = '/Users/robertcalistri/Downloads/BinaryClassifierTestTrainData/
 test_data_dir = '/Users/robertcalistri/Downloads/BinaryClassifierTestTrainData/test'
 
 # Declare image dimensions and the batch size to be processed
-img_width, img_height = 150, 150
+img_width, img_height = 299, 299
 batch_size = 32
 
 # Number of KFolds to be implemented
